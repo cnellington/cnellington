@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 My Name is Caleb Ellington (he/him) and I'm a Computational Biology PhD student at CMU advised by Dr. Eric Xing. Welcome to my GitHub!
 
 #### Current Interests
