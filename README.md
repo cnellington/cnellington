@@ -1,8 +1,12 @@
 ### Howdy 👋
-My Name is Caleb Ellington (he/him) and I'm a Computational Biology PhD student at CMU advised by Dr. Eric Xing. Welcome to my GitHub!
+I create trustworthy intelligent systems for personalized medicine. 
+I'm a Computational Biology PhD student at CMU advised by Dr. Eric Xing.
 
 #### Current Interests
-I'm working with [@blengerich](https://github.com/blengerich) on patient-specific bayesian network structure learning using contextual variables.
+High resolution medical imaging and sequencing have revealed unexpected differences among cohorts of patients with identical diseases and characteristics. 
+This heterogeneity requires the focus of medicine to shift from populations to patients.
+I create systems that generate patient-specific models of disease to understand how a patient's molecular profile influences their disease's manifestation, progression, and outcome.
+Currently, I work with [@blengerich](https://github.com/blengerich) on inferring gene regulatory networks under a one-patient-one-sample regime.
 
 <!--
 **cnellington/cnellington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
