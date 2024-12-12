@@ -1,24 +1,17 @@
+Research Scientist at [GenBio AI](https://genbio.ai/).
+
+Previously: [SAILING Lab](https://sailing-lab.github.io/) / [Genesis Therapeutics](https://genesistherapeutics.ai/) / [Baker Lab](https://www.bakerlab.org/) / [Indeed](https://indeed.com/) / [Klavins Lab](http://klavinslab.org/) / [Amazon](https://www.amazon.com/)
+
 ### Howdy 👋
-I create trustworthy intelligent systems for personalized medicine. 
-I'm a Computational Biology PhD student at CMU advised by Dr. Eric Xing.
 
-#### Current Interests
-High resolution medical imaging and sequencing have revealed unexpected differences among cohorts of patients with identical diseases and characteristics. 
-This heterogeneity requires the focus of medicine to shift from populations to patients.
-I create systems that generate patient-specific models of disease to understand how a patient's molecular profile influences their disease's manifestation, progression, and outcome.
-Currently, I work with [@blengerich](https://github.com/blengerich) on inferring gene regulatory networks under a one-patient-one-sample regime.
+I work on AI/ML for biology to enable automated biomarker discovery, drug repurposing, and therapeutic target identification for heterogeneous and rare diseases. 
+My research interests span foundation models, probabilistic graphical models, biological modeling, and multi-task learning.
 
-<!--
-**cnellington/cnellington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently, I've been working on [AIDO.ModelGenerator](https://genbio-ai.github.io/ModelGenerator/), an opinionated plug-and-play research framework for cross-disciplinary teams in ML & Bio, promoting the use of foundation models in research. 
+AIDO.ModelGenerator is designed to enable rapid and reproducible prototyping with new data, new foundation models, new finetuning tasks, and new architectures, all while automatically scaling with hardware and integrating with larger data pipelines for research and production.
 
-Here are some ideas to get you started:
+I also co-created [contextualized.ml](https://contextualized.ml/), an SKLearn-style toolbox for estimating and analyzing models, distributions, and functions with context-specific parameters.
+I made Contextualized to enable per-patient or per-cell analysis of biomedical data, and create truly personalized models for healthcare, precision diagnostics, and drug repurposing.
+See papers using Contextualized in the repo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy rock climbing, running, backpacking, guitar, learning languages, and wild speculation about Spotify’s recommender system. I’ve lived in Austin TX, Seattle WA, and Pittsburgh PA and I call them all home.
