@@ -1,8 +1,8 @@
-Research Scientist at [GenBio AI](https://genbio.ai/).
+### Howdy 👋
+
+I am a Research Scientist at [GenBio AI](https://genbio.ai/).
 
 Previously: [SAILING Lab](https://sailing-lab.github.io/) / [Genesis Therapeutics](https://genesistherapeutics.ai/) / [Baker Lab](https://www.bakerlab.org/) / [Indeed](https://indeed.com/) / [Klavins Lab](http://klavinslab.org/) / [Amazon](https://www.amazon.com/)
-
-### Howdy 👋
 
 I work on AI/ML for biology to enable automated biomarker discovery, drug repurposing, and therapeutic target identification for heterogeneous and rare diseases. 
 My research interests span foundation models, probabilistic graphical models, biological modeling, and multi-task learning.
