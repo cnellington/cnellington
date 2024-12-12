@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am a Research Scientist at [GenBio AI](https://genbio.ai/).
+I'm currently a Research Scientist at [GenBio AI](https://genbio.ai/).
 
 Previously: [SAILING Lab](https://sailing-lab.github.io/) / [Genesis Therapeutics](https://genesistherapeutics.ai/) / [Baker Lab](https://www.bakerlab.org/) / [Indeed](https://indeed.com/) / [Klavins Lab](http://klavinslab.org/) / [Amazon](https://www.amazon.com/)
 
