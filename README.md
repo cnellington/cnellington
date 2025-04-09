@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hello World 👋
 
 I'm currently a Research Scientist at [GenBio AI](https://genbio.ai/) and a PhD Candidate at CMU's [SAILING Lab](https://sailing-lab.github.io/)
 
