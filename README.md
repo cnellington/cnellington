@@ -1,7 +1,7 @@
 Welcome to my GitHub. 
 I'm currently a Research Scientist at [GenBio AI](https://genbio.ai/), but you'll find my public and open-source projects here.
 
-I did my Ph.D. with Eric P. Xing at CMU in the [Statistical Artificial Intelligence and Integrative Genomics Lab](https://sailing-lab.github.io/). 
+I did my Ph.D. with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/) at CMU in the [Statistical Artificial Intelligence and Integrative Genomics Lab](https://sailing-lab.github.io/). 
 
 I work on AI for biology, with a focus on learning from large-scale heterogeneous data to enable automated biomarker discovery, drug repurposing, and therapeutic target identification for heterogeneous and rare diseases.
 My general research interests span foundation models, probabilistic graphical models, biological modeling, and multi-task learning.
