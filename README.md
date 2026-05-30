@@ -1,10 +1,10 @@
-Welcome to my GitHub. 
-I'm currently a Research Scientist at [GenBio AI](https://genbio.ai/), but you'll find my public and open-source projects here.
+I like to build biological models that learn from large-scale heterogeneous data sources and can be programmed to simulate individual patient contexts.
+
+My general research interests span multi-task learning, probabilistic models, and biological simulation for drug development.
 
 I did my Ph.D. at CMU with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/) in the [Statistical Artificial Intelligence and Integrative Genomics Lab](https://sailing-lab.github.io/). 
 
-I work on AI for biology, with a focus on learning from large-scale heterogeneous data to enable automated biomarker discovery, drug repurposing, and therapeutic target identification for heterogeneous and rare diseases.
-My general research interests span foundation models, probabilistic graphical models, biological modeling, and multi-task learning.
+Currently: [Founding Scientist, GenBio AI](https://genbio.ai/)
 
 Previously: [Genesis Therapeutics](https://genesistherapeutics.ai/) / [Baker Lab](https://www.bakerlab.org/) / [Indeed](https://indeed.com/) / [Klavins Lab](http://klavinslab.org/) / [Amazon](https://www.amazon.com/)
 
