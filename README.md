@@ -1,6 +1,6 @@
 I build context-adaptive biological models for personalized disease simulation and drug development.
 
-My general research interests span multi-task learning, foundation models, and in-context learning, and heterogeneous & rare diseases.
+My general research interests span multi-task learning, foundation models, in-context learning, and heterogeneous & rare diseases.
 
 I did my Ph.D. at CMU with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/).
 
