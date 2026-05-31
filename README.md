@@ -1,8 +1,8 @@
-I like to build biological models that learn from large-scale heterogeneous data sources and can be programmed to simulate individual patient contexts.
+I build context-adaptive biological models for personalized disease simulation and drug development.
 
-My general research interests span multi-task learning, probabilistic models, and biological simulation for drug development.
+My general research interests span multi-task learning, foundation models, and in-context learning, and heterogeneous & rare diseases.
 
-I did my Ph.D. at CMU with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/) in the [Statistical Artificial Intelligence and Integrative Genomics Lab](https://sailing-lab.github.io/). 
+I did my Ph.D. at CMU with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/).
 
 Currently: [Founding Scientist, GenBio AI](https://genbio.ai/)
 
