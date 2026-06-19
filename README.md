@@ -1,4 +1,4 @@
-I build context-adaptive biological models for personalized disease simulation and drug development.
+I build context-adaptive models for personalized disease simulation and drug development.
 
 My general research interests span multi-task learning, foundation models, in-context learning, and heterogeneous & rare diseases.
 
