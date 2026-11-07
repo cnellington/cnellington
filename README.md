@@ -1,4 +1,4 @@
-I build foundation models for drug development.
+I build foundation models for therapeutics development.
 
 My general research interests span multi-task learning, foundation models, in-context learning, and heterogeneous & rare diseases.
 
