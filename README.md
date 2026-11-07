@@ -1,8 +1,8 @@
-I build context-adaptive models for personalized disease simulation and drug development.
+I build foundation models for drug development.
 
 My general research interests span multi-task learning, foundation models, in-context learning, and heterogeneous & rare diseases.
 
-I did my Ph.D. at CMU with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/).
+I did my Ph.D. at CMU with [Eric P. Xing](https://www.cs.cmu.edu/~epxing/), where I did my thesis on Context-Adaptive Machine Learning.
 
 Currently: [Founding Scientist, GenBio AI](https://genbio.ai/)
 
